@@ -1,0 +1,7 @@
+{
+  "name": "RFIF_plugin",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
