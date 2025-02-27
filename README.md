@@ -1,7 +1,9 @@
 HoneyWell Device Integration (Android Device)
 
 Install Plugin
+
 ionic cordova plugin add cordova-plugin-honeywell-spectrum-scanner
+
 npm install cordova-plugin-honeywell-spectrum-scanner
 
 
